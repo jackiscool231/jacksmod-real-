@@ -1,0 +1,10 @@
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/bin/Debug/net9.0/JacksMod.Template.deps.json
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/bin/Debug/net9.0/JacksMod.Template.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/bin/Debug/net9.0/JacksMod.Template.pdb
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/JacksMod.Template.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/JacksMod.Template.csproj.CoreCompileInputs.cache
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/JacksMod.Template.sourcelink.json
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/JacksMod.Template.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/refint/JacksMod.Template.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/JacksMod.Template.pdb
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/obj/template/Debug/net9.0/ref/JacksMod.Template.dll

@@ -1,0 +1,14 @@
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/bin/Debug/JacksMod.deps.json
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/bin/Debug/JacksMod.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/bin/Debug/JacksMod.pdb
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.csproj.AssemblyReference.cache
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.IgnoresAccessChecksTo.cs
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.AssemblyInfoInputs.cache
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.AssemblyInfo.cs
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.csproj.CoreCompileInputs.cache
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.sourcelink.json
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/refint/JacksMod.dll
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/JacksMod.pdb
+/Users/jackfeger/code/Sts2-ModSmith/JacksMod/.godot/mono/temp/obj/Debug/ref/JacksMod.dll
