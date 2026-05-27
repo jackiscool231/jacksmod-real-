@@ -1,7 +1,7 @@
 {
-  "id": "JacksMod",
-  "name": "JacksMod",
-  "author": "your-name",
+  "id": "Jack'sModWithCoolStuff",
+  "name": "Jack'sModWithCoolStuff",
+  "author": "jack",
   "description": "Mod for Slay the Spire 2",
   "version": "v0.0.0",
   "has_pck": false,
