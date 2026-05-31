@@ -1,4 +1,0 @@
-/Users/jackfeger/code/JacksMod/.godot/mono/temp/bin/Release/publish/JacksMod.dll
-/Users/jackfeger/code/JacksMod/.godot/mono/temp/bin/Release/publish/JacksMod.pdb
-/Users/jackfeger/code/JacksMod/.godot/mono/temp/bin/Release/publish/GodotSharp.dll
-/Users/jackfeger/code/JacksMod/.godot/mono/temp/bin/Release/publish/JacksMod.deps.json
