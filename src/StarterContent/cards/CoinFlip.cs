@@ -13,13 +13,15 @@ namespace JacksMod;
 
 class CoinFlip : ModSmithCardModel
 {
+  private const int BASE_GOLD = 10;
+  private const int UPGRADE_BONUS = 2;
   public CoinFlip()
     : base(1, CardType.Skill, CardRarity.Common, TargetType.Self)
   {
   }
 
   protected override IEnumerable<DynamicVar> CanonicalVars => [
-    new GoldVar(10),
+    new GoldVar(BASE_GOLD),
   ];
 
   protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
@@ -43,6 +45,6 @@ class CoinFlip : ModSmithCardModel
 
   protected override void OnUpgrade()
   {
-    base.DynamicVars.Gold.UpgradeValueBy(2);
+    base.DynamicVars.Gold.UpgradeValueBy(UPGRADE_BONUS);
   }
 }
