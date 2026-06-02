@@ -17,7 +17,7 @@ public static class JacksModMain
 
     public static void Initialize()
     {
-        Logger.Info("Initializing...");
+        Logger.Info("Initializing... 108" );
         Harmony harmony = new(ModId);
         harmony.PatchAll();
 

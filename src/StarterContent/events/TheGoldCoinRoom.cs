@@ -3,6 +3,8 @@ using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Players;
 using MegaCrit.Sts2.Core.Events;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
+using MegaCrit.Sts2.Core.Logging;
+
 
 namespace JacksMod;
 
@@ -10,12 +12,19 @@ namespace JacksMod;
 
 public sealed class TheGoldCoinRoom : ModSmithEventModel
 {
+  public static Logger Logger { get; } = new(JacksModMain.ModId, LogType.Generic);
+
   protected override IReadOnlyList<EventOption> GenerateInitialOptions()
   {
-    return [
+    Logger.Info("The gold coin room GIO");
+
+    IReadOnlyList<EventOption> rv = [
       new EventOption(this, TakeGold, "THE_GOLD_COIN_ROOM.pages.INITIAL.options.TAKE"),
       new EventOption(this, DoubleIt, "THE_GOLD_COIN_ROOM.pages.INITIAL.options.DOUBLE_IT"),
     ];
+    Logger.Info("The gold coin room GIO generated" );
+
+    return rv;
   }
 
   protected override IEnumerable<DynamicVar> CanonicalVars => [
