@@ -5,6 +5,8 @@
   "THE_GOLD_COIN_ROOM.pages.INITIAL.options.TAKE.description": "Gain [blue]{Gold}[/blue] [gold]gold[/gold].",
   "THE_GOLD_COIN_ROOM.pages.INITIAL.options.DOUBLE_IT.title": "Flip the coin.",
   "THE_GOLD_COIN_ROOM.pages.INITIAL.options.DOUBLE_IT.description": "Attempt to double the gold.",
+  "THE_GOLD_COIN_ROOM.pages.INITIAL.options.EXAMINE_IT.title": "Take a closer look.",
+  "THE_GOLD_COIN_ROOM.pages.INITIAL.options.EXAMINE_IT.description": "You'll get [sine]something[/sine]",
   "THE_GOLD_COIN_ROOM.pages.TAKEN.description": "You pocket the coin and leave the room a bit richer.",
   "THE_GOLD_COIN_ROOM.pages.DOUBLED.description": "You double the gold! But perhaps there is more to win...",
   "THE_GOLD_COIN_ROOM.pages.DOUBLED.options.TAKE.title": "Pocket the coin.",

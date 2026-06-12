@@ -13,12 +13,13 @@ namespace JacksMod;
 
 public sealed class GoldArmor : ModSmithRelicModel
 {
-  private const int Price = 5;
-  private const int Block = 10000;
+  private const int Gold = 5;
+  private const int Block = 100;
+
 public override RelicRarity Rarity => RelicRarity.Rare;
 
   protected override IEnumerable<DynamicVar> CanonicalVars => [
-    new GoldVar(Price),
+    new GoldVar(Gold),
     new BlockVar(Block, ValueProp.Unpowered)
   ];
 
