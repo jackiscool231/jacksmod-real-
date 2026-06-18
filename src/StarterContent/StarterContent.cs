@@ -14,6 +14,7 @@ public static class StarterContent
     Registry.RegisterPotion<GoldPaint>();
     Registry.RegisterPower<MadeOfGold>();
     Registry.RegisterEvent<TheGoldCoinRoom>();
+    Registry.RegisterEvent<RockPaperScissors>();  
     Registry.RegisterAncientEvent<GoldGuy, Hive>();
   }
 }
